@@ -4,9 +4,9 @@
 
 
 ###libraries used
-Selenium
-TestNG
-Extent Reports
+Selenium,
+TestNG.
+Extent Reports,
 Apache POI for data read from excel sheet
 
 ### Steps to clone execute the tests

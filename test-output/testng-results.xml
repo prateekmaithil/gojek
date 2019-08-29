@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="63598" started-at="2019-08-29T07:48:10Z" finished-at="2019-08-29T07:49:14Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="63598" started-at="2019-08-29T07:48:10Z" finished-at="2019-08-29T07:49:14Z">
+      <class name="gojek.testcases.HomepageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:gojek.testcases.HomepageTest@61f8bee4]" name="setUp" is-config="true" duration-ms="5253" started-at="2019-08-29T07:48:10Z" finished-at="2019-08-29T07:48:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="successPaymentFlowTest()[pri:1, instance:gojek.testcases.HomepageTest@61f8bee4]" name="successPaymentFlowTest" duration-ms="26866" started-at="2019-08-29T07:48:15Z" finished-at="2019-08-29T07:48:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- successPaymentFlowTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:gojek.testcases.HomepageTest@61f8bee4]" name="tearDown" is-config="true" duration-ms="802" started-at="2019-08-29T07:48:42Z" finished-at="2019-08-29T07:48:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:gojek.testcases.HomepageTest@61f8bee4]" name="setUp" is-config="true" duration-ms="4409" started-at="2019-08-29T07:48:43Z" finished-at="2019-08-29T07:48:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="failedPaymentFlowTest()[pri:2, instance:gojek.testcases.HomepageTest@61f8bee4]" name="failedPaymentFlowTest" duration-ms="25436" started-at="2019-08-29T07:48:47Z" finished-at="2019-08-29T07:49:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- failedPaymentFlowTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:gojek.testcases.HomepageTest@61f8bee4]" name="tearDown" is-config="true" duration-ms="812" started-at="2019-08-29T07:49:13Z" finished-at="2019-08-29T07:49:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- gojek.testcases.HomepageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
